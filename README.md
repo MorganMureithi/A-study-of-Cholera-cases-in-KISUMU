@@ -10,6 +10,7 @@ and WHO research publications on this disease.
 The purpose of this literature search,is to gain deep and wide understanding of the disease from infections,spread and prevalence.
 
 For purposes of this study,we mapped out 3 research objectives to guide our study.Namely:
+
 1.The location of those infected with Cholera
 
 2.The symptoms they exhibited
@@ -33,7 +34,11 @@ Of these 58 patients who were reocrdedd for Cholera-like sympetoms on 10,we clin
 of virbrio cholerae in stool).
 
 
+**RECOMMENDATIONS**
+
+
 **LIMITATIONS OF THE STUDY**
-1.A considerable amount of patient records were missing.These information could not be assussmed as not present as they were initially not stated.therefore,no assumptions could be made over these fields.
+
+1.A considerable amount of patient records were missing.These information could not be assussmed as they were MCAR.
 
 2.The sample size was small.A bigger n , could have allowed better 'diagnosis into the matter' and better intervention measures to be proposed.
