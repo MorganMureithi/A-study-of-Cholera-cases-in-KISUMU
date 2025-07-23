@@ -24,4 +24,9 @@ The data was exhasutivey warngled in Python,in order to find patterns and relati
 
 **Outcome**
 
+The study had a sample of 58 patients based on the shared data ,with observations across  33 paramters e.g Sex,Age,Location
+Of these 58 patients who were reocrdedd for Cholera-like sympetoms on 10,we clinically established to have Cholera ( confirmation 
+of virbrio cholerae in stool).
 
+
+**LIMITATIONS OF THE STUDY**
