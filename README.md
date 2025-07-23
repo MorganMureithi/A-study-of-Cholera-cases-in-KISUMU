@@ -10,9 +10,13 @@ and WHO research publications on this disease.
 The purpose of this literature search,is to gain deep and wide understanding of the disease from infections,spread and prevalence.
 
 For purposes of this study,we mapped out 3 research objectives to guide our study.Namely:
-1.
-2.
-3.
+1.The location of those infected with Cholera
+
+2.The symptoms they exhibited
+
+3.What was the most common method of transmission 
+
+4.aht influnced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
 
 
 The data for analysis was secondary data produceraly shared by Kisumu County Dpertment of Health of patients who ehibite cholera-like sysmptoms for investigations.
@@ -30,3 +34,6 @@ of virbrio cholerae in stool).
 
 
 **LIMITATIONS OF THE STUDY**
+1.A considerable amount of patient records were missing.These information could not be assussmed as not present as they were initially not stated.therefore,no assumptions could be made over these fields.
+
+2.The sample size was small.A bigger n , could have allowed better 'diagnosis into the matter' and better intervention measures to be proposed.
