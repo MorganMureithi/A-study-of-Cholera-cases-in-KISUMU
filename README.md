@@ -13,11 +13,9 @@ For purposes of this study,we mapped out 3 research objectives to guide our stud
 
 1.The location of those infected with Cholera
 
-2.The symptoms they exhibited
+2.What was the most common method of transmission 
 
-3.What was the most common method of transmission 
-
-4.aht influnced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
+3.What influnced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
 
 
 The data for analysis was secondary data produceraly shared by Kisumu County Dpertment of Health of patients who ehibite cholera-like sysmptoms for investigations.
@@ -29,16 +27,27 @@ The data was exhasutivey warngled in Python,in order to find patterns and relati
 
 **Outcome**
 
-The study had a sample of 58 patients based on the shared data ,with observations across  33 paramters e.g Sex,Age,Location
-Of these 58 patients who were reocrdedd for Cholera-like sympetoms on 10,we clinically established to have Cholera ( confirmation 
+The study had a sample of 58 patients ,with observations across  33 paramters e.g Sex,Age,Location
+Of these 58 patients who were reocrded for Cholera-like sympetoms only 10,were clinically established to have Cholera ( confirmation 
 of virbrio cholerae in stool).
+
+Utilised Fisher's Exact Test,to determine the association between the water patients diagnosed with Cholera were found to be taking.We established that there was a strong association between those infected with cholera and the kind of water they were taking.They were drinking untreatred water.This is besides other confounding issues leading to phenomena.
 
 
 **RECOMMENDATIONS**
 
+1.	The County government should ensure continuous health education on water treatment.
+
+2.	Implementation of proper sanitation measures such as sewage treatment and waste management.
+
+3.	Invest in upgrading and maintain water supply systems.
+
+4.	Encouraging community involvement in monitoring water quality, reporting suspected cases and implementing preventive measures.
+
+5.	Enforce regulations and standards for food safety and water quality in public spaces, restaurants and food processing facilities
 
 **LIMITATIONS OF THE STUDY**
 
 1.A considerable amount of patient records were missing.These information could not be assussmed as they were MCAR.
 
-2.The sample size was small.A bigger n , could have allowed better 'diagnosis into the matter' and better intervention measures to be proposed.
+2.The sample size was small.A bigger n , could have allowed better diagnosis into the matter and better intervention measures to be proposed.
