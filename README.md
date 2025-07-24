@@ -31,8 +31,8 @@ The study had a sample of 58 patients ,with observations across  33 paramters e.
 Of these 58 patients who were reocrded for Cholera-like sympetoms only 10,were clinically established to have Cholera ( confirmation 
 of virbrio cholerae in stool).
 
-Utilised Fisher's Exact Test,to determine the association between the water patients diagnosed with Cholera were found to be taking.We established that there was a strong association between those infected with cholera and the kind of water they were taking.They were drinking untreatred water.This is besides other confounding issues leading to this phenomena.
-
+Utilised Fisher's Exact Test,to determine the association between the water patients diagnosed with Cholera were found to be taking.We established that there was a strong association between those infected with cholera and the kind of water they were taking.They were drinking untreatred water.This is besides other confounding issues leading to this phenomena e.g 
+availability of clean water,sanitation levels
 
 **RECOMMENDATIONS**
 
