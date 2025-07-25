@@ -5,7 +5,7 @@ Kisumu county is among the few counties that report high infections of Cholera c
 
 **METHODOLOGY**
 
-The study involved combing through literature materials on Cholera infections in Kenya.From MOHpublications,IFRC reports,Africa CDC data dump on the infections
+The study involved combing through literature materials on Cholera infections in Kenya.From MOH publications,IFRC reports,Africa CDC data dump on the infections
 and WHO research publications on this disease.
 The purpose of this literature search,is to gain deep and wide understanding of the disease from infections,spread and prevalence.
 
@@ -15,10 +15,10 @@ For purposes of this study,we mapped out 3 research objectives to guide our stud
 
 2.What was the most common method of transmission 
 
-3.What influnced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
+3.What influenced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
 
 
-The data for analysis was secondary data produceraly shared by Kisumu County Dpertment of Health of patients who ehibite cholera-like sysmptoms for investigations.
+The data for analysis was secondary data procedurelly shared by Kisumu County Dpertment of Health of patients who ehibite cholera-like sysmptoms for investigations.
 (Sesitive infromation was removed,inorder to protect patients identities)
 
 The data was inspected,carefully and needfuly cleaned in Excel and afterwards imported into Python for further inspection and analysis.
