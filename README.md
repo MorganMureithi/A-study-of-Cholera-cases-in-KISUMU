@@ -1,53 +1,26 @@
 **PURPOSE OF STUDY**
 
-To find out causes of Cholera cases in Kisumu County.
-Kisumu county is among the few counties that report high infections of Cholera cases and is usually under the radar of Kenya's Ministry of Health.
-
-**METHODOLOGY**
-
-The study involved combing through literature materials on Cholera infections in Kenya.From MOH publications,IFRC reports,Africa CDC data dump on the infections
-and WHO research publications on this disease.
-The purpose of this literature search,is to gain deep and wide understanding of the disease from infections,spread and prevalence.
-
-For purposes of this study,we mapped out 3 research objectives to guide our study.Namely:
-
-1.The location of those infected with Cholera
-
-2.What was the most common method of transmission 
-
-3.What influenced the outbreak of the vrius,i.e a look into the sanitation methods of confirmed cases.
-
-
-The data for analysis was secondary data procedurelly shared by Kisumu County Dpertment of Health of patients who ehibite cholera-like sysmptoms for investigations.
-(Sesitive infromation was removed,inorder to protect patients identities)
-
-The data was inspected,carefully and needfuly cleaned in Excel and afterwards imported into Python for further inspection and analysis.
-The reason for this is to protect sensitive and as preferred all information for inference and determination purposes.
-The data was exhasutivey warngled in Python,in order to find patterns and relationships within the dataset.
+Examined reasons behind prevalent Cholera infections in Kisumu.
+To determine the most common mode of transmission among this population and factors contributing to the spread of the disease within Kisumu.
 
 **Outcome**
 
-The study had a sample of 58 patients ,with observations across  33 paramters e.g Sex,Age,Location
-Of these 58 patients who were reocrded for Cholera-like sympetoms only 10,were clinically established to have Cholera ( confirmation 
-of virbrio cholerae in stool).
+From the analysis,these Cholera cases were directly attritubed to use of unclean water,making it unsafe for consumption.Out of those clinically confirmed to have the disease, 50 % of them relied on shallow well water for consumption (borehole) while 10 % we not aware of the source of their water. 30 % were using tap water while 10% claimed to be using spring water for consumption.
 
-Utilised Fisher's Exact Test,to determine the association between the water patients diagnosed with Cholera were found to be taking.We established that there was a strong association between those infected with cholera and the kind of water they were taking.They were drinking untreatred water.This is besides other confounding issues leading to this phenomena e.g 
-availability of clean water,sanitation levels
+However,on local terms, tap water could be interpreted as harvested rain water while for 'spring' water could be river water assumed to be coming from an uphill spring. This is due to the existing situation of poor clean water supply from the County Governement.The water infracsture is hampered with leaking ,clogged water pipes sometimes navigating tough undecent dwellerships.
+
+On the other hand,of those confirmed to have the disease, 90 % of them reported to not using any water treatment in their water while 10 % of them were not aware if they have used or have ever used any treatment in their water.
+
+Fishers Exact test confirmed that the situation is worrrysome.With an established  p value of 0.011 < 0.05,confirmed that there is a strong relatonship lab dignosis and water treatment avaliblity/usability. 
 
 **RECOMMENDATIONS**
 
-1.	The County government should ensure continuous health education on water treatment.
+1.	That the County government should ensure continuous health education on water treatment.
 
-2.	Implementation of proper sanitation measures such as sewage treatment and waste management.
+2.	That the County Governemnt implementats proper sanitation measures such as sewage treatment and waste management.
 
-3.	Invest in upgrading and maintain water supply systems.
+3.	That the County Government invests in upgrading and maintaining water supply systems.
 
-4.	Encouraging community involvement in monitoring water quality, reporting suspected cases and implementing preventive measures.
+4.	That the County Government liases with the communities in community policing to monitor water quality, report suspected cases of water leakages,diversion and.
 
-5.	Enforce regulations and standards for food safety and water quality in public spaces, restaurants and food processing facilities
-
-**LIMITATIONS OF THE STUDY**
-
-1.A considerable amount of patient records were missing.These information could not be assussmed as they were MCAR.
-
-2.The sample size was small.A bigger n , could have allowed better diagnosis into the matter and better intervention measures to be proposed.
+5.	Lastly,County Governemnt Enforce regulations and standards for food safety and water quality in public spaces, restaurants and food processing facilities
