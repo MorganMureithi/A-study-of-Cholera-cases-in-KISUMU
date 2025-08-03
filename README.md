@@ -4,6 +4,7 @@ Examined reasons behind prevalent Cholera infections in Kisumu.
 To determine the most common mode of transmission among this population and factors contributing to the spread of the disease within Kisumu.
 
 **Outcome**
+Leveraged Python for data analysis and employed statistical concepts to carry out Hypothesis Testing and in establishing relationships/patterns :F-test,Chi-square,respectively.
 
 From the analysis,these Cholera cases were directly attritubed to use of unclean water,making it unsafe for consumption.Out of those clinically confirmed to have the disease, 50 % of them relied on shallow well water for consumption (borehole) while 10 % we not aware of the source of their water. 30 % were using tap water while 10% claimed to be using spring water for consumption.
 
